@@ -1,4 +1,4 @@
-# AI-Powered Health & Fitness Tracker
+# AI-Powered Health & Fitness Tracker (<ins> sambav Jetty's</ins>)
 
 ## 🌐 Deployed Link
 [Visit the Live App](https://xnl-21-bce-9861-fs-2-one.vercel.app/)
